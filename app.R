@@ -47,6 +47,7 @@ ui <- fluidPage(
   ),
   p("Parliament diagram:", a("https://erocoar.github.io/ggpol/", href="https://erocoar.github.io/ggpol/")),
   p("Text labels:", a("https://ggrepel.slowkow.com", href="https://ggrepel.slowkow.com")),
+  p("Everything else:", a("https://www.tidyverse.org", href="https://www.tidyverse.org"), "and very helpful:", a("Mastering Shiny", href="https://mastering-shiny.org") ),
   p(a("View Source", href="https://github.com/robertwelz/CoalitionGame"))
 )
 
